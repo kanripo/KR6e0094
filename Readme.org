@@ -1,12 +1,30 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:08.838879
-#+TITLE: 華嚴發菩提心章
-#+PROPERTY: CBETA_ID T45n1878
-#+PROPERTY: ID KR6e0094
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1878
-#+PROPERTY: VOL 45
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T@JIA
-#+PROPERTY: LASTPB <pb:KR6e0094_T_000-0650c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 華嚴發菩提心章 / T@JIA
+#+DATE: 2015-11-26 14:17:13.254215
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@HARA|【大→原】   |
+ |     T@JIA|【大→甲】   |
 
-[[file:KR6e0094_001.txt::001-0650c22][華嚴發菩提心章凡例¶]]
+* 目次
+* [[file:KR6e0094_001.txt::001-0650c21][凡例]]
+* [[file:KR6e0094_001.txt::0651a15][1發心]]
+* [[file:KR6e0094_001.txt::0651b28][2簡教]]
+* [[file:KR6e0094_001.txt::0652a5][3顯過]]
+** [[file:KR6e0094_001.txt::0652b12][1真空觀]]
+** [[file:KR6e0094_001.txt::0652c28][2理事無礙觀]]
+** [[file:KR6e0094_001.txt::0653c16][3周遍含容觀]]
+** [[file:KR6e0094_001.txt::0654a29][4色空章十門止觀]]
+** [[file:KR6e0094_001.txt::0654c1][5理事圓融義]]
+*** [[file:KR6e0094_001.txt::0654c1][1理事俱融門]]
+*** [[file:KR6e0094_001.txt::0654c10][2理法隱顯門]]
+*** [[file:KR6e0094_001.txt::0654c20][3事法存泯門]]
+*** [[file:KR6e0094_001.txt::0655a1][4事事相在門]]
+*** [[file:KR6e0094_001.txt::0655a15][5一事隱現門]]
+*** [[file:KR6e0094_001.txt::0655a27][6多事隱現門]]
+*** [[file:KR6e0094_001.txt::0655b8][7事事相是門]]
+*** [[file:KR6e0094_001.txt::0655b23][8一多存泯門]]
+*** [[file:KR6e0094_001.txt::0655c4][9多事存泯門]]
+*** [[file:KR6e0094_001.txt::0655c17][10圓融具德門]]
+* 卷
+** [[file:KR6e0094_001.txt][華嚴發菩提心章 1]]
